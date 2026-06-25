@@ -1,0 +1,10 @@
+body{margin:0;font-family:Arial;background:#f5f5f5}
+.center{height:100vh;display:flex;justify-content:center;align-items:center}
+.card,.box{background:#fff;padding:20px;border-radius:10px}
+input,button{padding:10px;margin:5px}
+.sidebar{width:220px;background:#243a22;color:#fff;height:100vh;position:fixed;padding:15px}
+.sidebar button{display:block;width:100%;margin:8px 0}
+.main{margin-left:250px;padding:20px}
+.hidden{display:none}
+table{width:100%;background:white;border-collapse:collapse}
+td,th{border:1px solid #ddd;padding:8px}
